@@ -4,7 +4,7 @@
 #define MyAppName "ValoranCho Mod Manager"
 #define MyAppVersion "1.0"
 #define MyAppPublisher "Team Tast"
-#define MyAppURL "httos://tast.jp"
+#define MyAppURL "https://tast.jp"
 #define MyAppExeName "valorancho_mod_manager.exe"
 
 [Setup]
